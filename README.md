@@ -1,6 +1,6 @@
 # fswatch
 **fswatch** is a developer tool that triggers commands in response to filesystem changes.
-Works well on Mac, Linux, and should also works on Windows(not well tested).
+Works well on Mac, Linux, and should also works on Windows.
 
 ## Install
 ```
